@@ -1,1 +1,1 @@
-## Business Intelligence, Machine Learning, and Data Science
+## Business Intelligence and Data Science
